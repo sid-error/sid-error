@@ -16,7 +16,7 @@
 - C, C++, Python, Java, JavaScript, Haskell, HTML, CSS, Typescript
 
 **Frameworks and Libraries**
-- React, React Native, Expo Go, Node.js
+- React, React Native, Expo Go, Node.js, Vite
 
 **Databases**
 - SQLite, MySQL
