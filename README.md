@@ -1,8 +1,14 @@
-# Hi, I'm Sidharth 👋
+# Hi, I'm Sidharth S Nair 👋
 
-🎓 Computer Science student with a strong foundation in programming, algorithms, databases, problem solving and analytics and a passion to work with new technologies.
+🎓 Computer Science Undergraduate student with a strong foundation in programming, algorithms, databases, problem solving and analytics and a passion to work with new technologies.
 
 💻 Areas of Interest include Machine Learning & Artificial Intelligence, Generative AI, Front-end Design, Web Development, Data Science
+
+## 🔗 Contact
+
+- 📧 Email:  sidharthsnair14dec@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sidharth-s-nair-a550953a5/
+- 🌐 GitHub: https://github.com/sid-error
 
 ## 🛠 Tech Stack
 
